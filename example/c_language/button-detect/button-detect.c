@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 #include <wiringPi.h>
  
 char KEY = 29;
